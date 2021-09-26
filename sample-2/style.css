@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
